@@ -93,5 +93,14 @@ int main() {
 ```
 
 # OUTPUT
+
+#SYMBOL FOUND 
+
+![Screenshot 2025-04-15 110018](https://github.com/user-attachments/assets/94b911d3-37f3-41f6-ba89-1c18cf36eb28)
+
+#SYMBOL NOT FOUND
+
+![Screenshot (208)](https://github.com/user-attachments/assets/cad8e292-1956-4986-8f95-833d9e199313)
+
 # RESULT
 ### The program to implement a symbol table is executed and the output is verified.
